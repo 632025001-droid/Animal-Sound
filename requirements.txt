@@ -8,4 +8,3 @@ joblib
 sqlalchemy
 streamlit
 matplotlib
-seaborn
